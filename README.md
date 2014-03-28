@@ -19,6 +19,8 @@ Then the script will combine them into a nice build version format as follows
 
 APP_MAJOR_VERSION.APP_MINOR_VERSION.APP_REVISION_VERSION
 
+This project can be adapted to work with any kind of apps ie. games.
+
 Benefit in short
 ----------------
 Focus changing app's version at one place, the easy way for programmer at source file.
