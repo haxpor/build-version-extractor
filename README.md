@@ -19,6 +19,8 @@ Then the script will combine them into a nice build version format as follows
 
 APP_MAJOR_VERSION.APP_MINOR_VERSION.APP_REVISION_VERSION
 
+It then sets the combined text into .plist file automatically.
+
 This project can be adapted to work with any kind of apps ie. games.
 
 Benefit in short
